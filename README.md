@@ -7,3 +7,6 @@ Dataset: https://www.nasa.gov/content/prognostics-center-of-excellence-data-set-
 
 Reference Paper:
 Hai Qiu, Jay Lee, Jing Lin. “Wavelet Filter-based Weak Signature Detection Method and its Application on Roller Bearing Prognostics.” Journal of Sound and Vibration 289 (2006) 1066-1090
+
+
+⭐ PS: Please leave a star to support.
